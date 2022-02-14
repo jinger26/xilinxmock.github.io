@@ -1,34 +1,27 @@
-## Welcome to GitHub Pages
+## Jinger's mock project for Xilinx China submission
 
-You can use the [editor on GitHub](https://github.com/jinger26/xilinxmock.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Xilinx project based on VCK5000. To compete in the Adaptive Computing Contest 2021. Authored by Jinger. MIT license. Hooray!
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - This is kitty 1
+ - This is kitty 2
+ - This is kitty 3
+ - This is kitty n
 
-```markdown
-Syntax highlighted code block
+Used the following handtools:
 
-# Header 1
-## Header 2
-### Header 3
+1. DeWalt screwdriver
+2. DeWalt multi-meter
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**Send an email to contests2021@xilinx.com** and _use Hackster's discussion tab_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### How to submit your project
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jinger26/xilinxmock.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
